@@ -41,6 +41,9 @@ body {
 .social-link img {
 	width: 20px;
 }
+.visually-hidden{
+	display: none;
+}
 
 #about {
 	display: flex;
